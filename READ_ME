@@ -1,0 +1,13 @@
+In this section I am about to tell you how to operated this  application so you can get your result on what you want so there will be no confussion,
+if you want to choose buy a product select the numbers inside this [] box.
+after that there is another rule for you to select, 
+if you want to add it to your cart select add.
+if you want to show your cart select cart, and
+if you want to main menu select back.
+
+there are some things the cart do
+if you select cart it will show you the product detail you choose, the product name, quantity, and the price of the product.
+then if yo want to check out for the product so it can be deliverd to your door step select check_out,
+but there are some process it get it deliverd to you, you will enter your name, address, and number.
+then if you like to continue the shopping or not
+select yes or No
